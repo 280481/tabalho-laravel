@@ -1,0 +1,16 @@
+login: refrancescatto@hotmail.com	
+senha:renatotads
+
+
+criar modelo tarefa
+
+criar modelo/view/controller e implementar o index
+
+devera listar e pesquisar 
+entregar ate o dia 28/09
+
+
+
+
+
+
